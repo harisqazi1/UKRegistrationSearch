@@ -9,4 +9,5 @@ Full blog post is located: https://www.harisqazi.com/osint/transportation/united
 3. Uncomment API link
 4. Import `requests` and `strings` if needed
 5. Remove print statements if you want a clean JSON output
-6. `python3 license.py`
+6. Use `$` for numerical wildcards, and `@` for alphabetical wildcards
+7. `python3 license.py`
