@@ -9,4 +9,4 @@ Full blog post is located: https://www.harisqazi.com/osint/transportation/united
 3. Uncomment API link
 4. Import `requests` and `strings` if needed
 5. Remove print statements if you want a clean JSON output
-6. `python3 licence.py`
+6. `python3 license.py`
